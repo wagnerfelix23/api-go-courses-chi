@@ -4,5 +4,5 @@ import "fmt"
 
 func main() {
 
-	fmt.Println("Hello api course")
+	fmt.Println("Hello api coursev v2")
 }
